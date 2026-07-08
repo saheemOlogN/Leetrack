@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
+| [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 | [0838-push-dominoes](https://github.com/saheemOlogN/Leetrack/tree/master/0838-push-dominoes) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/saheemOlogN/Leetrack/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/saheemOlogN/Leetrack/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/saheemOlogN/Leetrack/tree/master/3634-minimum-removals-to-balance-array) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
