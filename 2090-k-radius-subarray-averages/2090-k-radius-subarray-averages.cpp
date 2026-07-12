@@ -15,6 +15,7 @@ public:
            int avg=temp/ (2*k+1);
            res[i]=avg;
         }
+        //im gonna return again to solve it using sliding window pattern
 
         return res;
     }
