@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
 | [1052-grumpy-bookstore-owner](https://github.com/saheemOlogN/Leetrack/tree/master/1052-grumpy-bookstore-owner) |
 | [1288-remove-covered-intervals](https://github.com/saheemOlogN/Leetrack/tree/master/1288-remove-covered-intervals) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
+| [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/1331-rank-transform-of-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/saheemOlogN/Leetrack/tree/master/3719-longest-balanced-subarray-i) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/saheemOlogN/Leetrack/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saheemOlogN/Leetrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saheemOlogN/Leetrack/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/saheemOlogN/Leetrack/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3719-longest-balanced-subarray-i](https://github.com/saheemOlogN/Leetrack/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
