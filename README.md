@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saheemOlogN/Leetrack/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saheemOlogN/Leetrack/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/saheemOlogN/Leetrack/tree/master/0392-is-subsequence) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saheemOlogN/Leetrack/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
