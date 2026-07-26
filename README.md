@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/saheemOlogN/Leetrack/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/saheemOlogN/Leetrack/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saheemOlogN/Leetrack/tree/master/0992-subarrays-with-k-different-integers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/saheemOlogN/Leetrack/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saheemOlogN/Leetrack/tree/master/0992-subarrays-with-k-different-integers) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/saheemOlogN/Leetrack/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/saheemOlogN/Leetrack/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/saheemOlogN/Leetrack/tree/master/2024-maximize-the-confusion-of-an-exam) |
