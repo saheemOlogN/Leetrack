@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/saheemOlogN/Leetrack/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saheemOlogN/Leetrack/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/saheemOlogN/Leetrack/tree/master/3719-longest-balanced-subarray-i) |
 ## String
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saheemOlogN/Leetrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/saheemOlogN/Leetrack/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saheemOlogN/Leetrack/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/saheemOlogN/Leetrack/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saheemOlogN/Leetrack/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
@@ -83,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saheemOlogN/Leetrack/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saheemOlogN/Leetrack/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/saheemOlogN/Leetrack/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/saheemOlogN/Leetrack/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/saheemOlogN/Leetrack/tree/master/0992-subarrays-with-k-different-integers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
