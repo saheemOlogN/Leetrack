@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/saheemOlogN/Leetrack/tree/master/0838-push-dominoes) |
 | [1208-get-equal-substrings-within-budget](https://github.com/saheemOlogN/Leetrack/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saheemOlogN/Leetrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/saheemOlogN/Leetrack/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saheemOlogN/Leetrack/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/2390-removing-stars-from-a-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saheemOlogN/Leetrack/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saheemOlogN/Leetrack/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saheemOlogN/Leetrack/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
