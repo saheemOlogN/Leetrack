@@ -53,7 +53,8 @@ int rightQ(string num){
 
         int eq1 = 2*ls+9*lq;       
         int eq2 = 2*rs+9*rq;   
+
         if(eq1==eq2) return false;
-        return true;   
+        return true;
     }
 };
