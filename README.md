@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/saheemOlogN/Leetrack/tree/master/0386-lexicographical-numbers) |
 | [3310-remove-methods-from-project](https://github.com/saheemOlogN/Leetrack/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/saheemOlogN/Leetrack/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
