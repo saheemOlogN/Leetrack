@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saheemOlogN/Leetrack/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saheemOlogN/Leetrack/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/saheemOlogN/Leetrack/tree/master/1872-stone-game-viii) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/saheemOlogN/Leetrack/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 | [2090-k-radius-subarray-averages](https://github.com/saheemOlogN/Leetrack/tree/master/2090-k-radius-subarray-averages) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/saheemOlogN/Leetrack/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saheemOlogN/Leetrack/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saheemOlogN/Leetrack/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/saheemOlogN/Leetrack/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saheemOlogN/Leetrack/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saheemOlogN/Leetrack/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/saheemOlogN/Leetrack/tree/master/1208-get-equal-substrings-within-budget) |
+| [1872-stone-game-viii](https://github.com/saheemOlogN/Leetrack/tree/master/1872-stone-game-viii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/saheemOlogN/Leetrack/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3719-longest-balanced-subarray-i](https://github.com/saheemOlogN/Leetrack/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/saheemOlogN/Leetrack/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -266,12 +271,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/saheemOlogN/Leetrack/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/saheemOlogN/Leetrack/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
