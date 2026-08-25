@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/saheemOlogN/Leetrack/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saheemOlogN/Leetrack/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saheemOlogN/Leetrack/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/saheemOlogN/Leetrack/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saheemOlogN/Leetrack/tree/master/0051-n-queens) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/saheemOlogN/Leetrack/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/saheemOlogN/Leetrack/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saheemOlogN/Leetrack/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/saheemOlogN/Leetrack/tree/master/0078-subsets) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/saheemOlogN/Leetrack/tree/master/0051-n-queens) |
 ## Memoization
 |  |
@@ -350,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/saheemOlogN/Leetrack/tree/master/0386-lexicographical-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
