@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saheemOlogN/Leetrack/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/saheemOlogN/Leetrack/tree/master/0560-subarray-sum-equals-k) |
+| [0860-lemonade-change](https://github.com/saheemOlogN/Leetrack/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/saheemOlogN/Leetrack/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/saheemOlogN/Leetrack/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
