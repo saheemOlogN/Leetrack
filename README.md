@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saheemOlogN/Leetrack/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/saheemOlogN/Leetrack/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/saheemOlogN/Leetrack/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/saheemOlogN/Leetrack/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saheemOlogN/Leetrack/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saheemOlogN/Leetrack/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/saheemOlogN/Leetrack/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
