@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/saheemOlogN/Leetrack/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/saheemOlogN/Leetrack/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/saheemOlogN/Leetrack/tree/master/0392-is-subsequence) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/saheemOlogN/Leetrack/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/saheemOlogN/Leetrack/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/saheemOlogN/Leetrack/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0241-different-ways-to-add-parentheses) |
