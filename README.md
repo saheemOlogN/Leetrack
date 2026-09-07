@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 | [0838-push-dominoes](https://github.com/saheemOlogN/Leetrack/tree/master/0838-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0940-distinct-subsequences-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/saheemOlogN/Leetrack/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saheemOlogN/Leetrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saheemOlogN/Leetrack/tree/master/0509-fibonacci-number) |
 | [0838-push-dominoes](https://github.com/saheemOlogN/Leetrack/tree/master/0838-push-dominoes) |
+| [0940-distinct-subsequences-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saheemOlogN/Leetrack/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
