@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/saheemOlogN/Leetrack/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/saheemOlogN/Leetrack/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/saheemOlogN/Leetrack/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/saheemOlogN/Leetrack/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/saheemOlogN/Leetrack/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saheemOlogN/Leetrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dancing Links
 |  |
