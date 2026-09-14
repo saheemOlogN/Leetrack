@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saheemOlogN/Leetrack/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saheemOlogN/Leetrack/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/saheemOlogN/Leetrack/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
@@ -420,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/saheemOlogN/Leetrack/tree/master/0300-longest-increasing-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/saheemOlogN/Leetrack/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
