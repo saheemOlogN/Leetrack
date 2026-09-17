@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saheemOlogN/Leetrack/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saheemOlogN/Leetrack/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saheemOlogN/Leetrack/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saheemOlogN/Leetrack/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/saheemOlogN/Leetrack/tree/master/1872-stone-game-viii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/saheemOlogN/Leetrack/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saheemOlogN/Leetrack/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saheemOlogN/Leetrack/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saheemOlogN/Leetrack/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/saheemOlogN/Leetrack/tree/master/0838-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saheemOlogN/Leetrack/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saheemOlogN/Leetrack/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saheemOlogN/Leetrack/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/saheemOlogN/Leetrack/tree/master/0300-longest-increasing-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/saheemOlogN/Leetrack/tree/master/1208-get-equal-substrings-within-budget) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saheemOlogN/Leetrack/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saheemOlogN/Leetrack/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/saheemOlogN/Leetrack/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saheemOlogN/Leetrack/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/saheemOlogN/Leetrack/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/saheemOlogN/Leetrack/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saheemOlogN/Leetrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saheemOlogN/Leetrack/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saheemOlogN/Leetrack/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/saheemOlogN/Leetrack/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/saheemOlogN/Leetrack/tree/master/2090-k-radius-subarray-averages) |
