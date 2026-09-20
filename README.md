@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saheemOlogN/Leetrack/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/saheemOlogN/Leetrack/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saheemOlogN/Leetrack/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/saheemOlogN/Leetrack/tree/master/3713-longest-balanced-substring-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/saheemOlogN/Leetrack/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
