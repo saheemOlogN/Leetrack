@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/saheemOlogN/Leetrack/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saheemOlogN/Leetrack/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/saheemOlogN/Leetrack/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saheemOlogN/Leetrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3634-minimum-removals-to-balance-array](https://github.com/saheemOlogN/Leetrack/tree/master/3634-minimum-removals-to-balance-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saheemOlogN/Leetrack/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saheemOlogN/Leetrack/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/saheemOlogN/Leetrack/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3525-find-x-value-of-array-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saheemOlogN/Leetrack/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/saheemOlogN/Leetrack/tree/master/3870-count-commas-in-range) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saheemOlogN/Leetrack/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/saheemOlogN/Leetrack/tree/master/3719-longest-balanced-subarray-i) |
 ## String Matching
 |  |
