@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/saheemOlogN/Leetrack/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/saheemOlogN/Leetrack/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/2390-removing-stars-from-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/saheemOlogN/Leetrack/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
 ## Hash Table
 |  |
@@ -481,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0523-continuous-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/saheemOlogN/Leetrack/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/saheemOlogN/Leetrack/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
