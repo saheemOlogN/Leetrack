@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/saheemOlogN/Leetrack/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/saheemOlogN/Leetrack/tree/master/0901-online-stock-span) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/saheemOlogN/Leetrack/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/saheemOlogN/Leetrack/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0241-different-ways-to-add-parentheses) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/saheemOlogN/Leetrack/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/saheemOlogN/Leetrack/tree/master/0115-distinct-subsequences) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saheemOlogN/Leetrack/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
