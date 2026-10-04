@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/saheemOlogN/Leetrack/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/saheemOlogN/Leetrack/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/saheemOlogN/Leetrack/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/saheemOlogN/Leetrack/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/saheemOlogN/Leetrack/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/saheemOlogN/Leetrack/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 | [0838-push-dominoes](https://github.com/saheemOlogN/Leetrack/tree/master/0838-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0940-distinct-subsequences-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saheemOlogN/Leetrack/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/saheemOlogN/Leetrack/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/saheemOlogN/Leetrack/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/saheemOlogN/Leetrack/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saheemOlogN/Leetrack/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/saheemOlogN/Leetrack/tree/master/0678-valid-parenthesis-string) |
 | [0838-push-dominoes](https://github.com/saheemOlogN/Leetrack/tree/master/0838-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/saheemOlogN/Leetrack/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saheemOlogN/Leetrack/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saheemOlogN/Leetrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
