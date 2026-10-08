@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saheemOlogN/Leetrack/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saheemOlogN/Leetrack/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0241-different-ways-to-add-parentheses) |
+| [0319-bulb-switcher](https://github.com/saheemOlogN/Leetrack/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saheemOlogN/Leetrack/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0523-continuous-subarray-sum) |
@@ -544,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/0912-sort-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/saheemOlogN/Leetrack/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
