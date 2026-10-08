@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/saheemOlogN/Leetrack/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/saheemOlogN/Leetrack/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saheemOlogN/Leetrack/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/saheemOlogN/Leetrack/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saheemOlogN/Leetrack/tree/master/1510-stone-game-iv) |
