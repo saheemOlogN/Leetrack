@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saheemOlogN/Leetrack/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/saheemOlogN/Leetrack/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saheemOlogN/Leetrack/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/saheemOlogN/Leetrack/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3525-find-x-value-of-array-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/saheemOlogN/Leetrack/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saheemOlogN/Leetrack/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/saheemOlogN/Leetrack/tree/master/3870-count-commas-in-range) |
