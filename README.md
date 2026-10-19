@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saheemOlogN/Leetrack/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saheemOlogN/Leetrack/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/saheemOlogN/Leetrack/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saheemOlogN/Leetrack/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/saheemOlogN/Leetrack/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saheemOlogN/Leetrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saheemOlogN/Leetrack/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/saheemOlogN/Leetrack/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1768-merge-strings-alternately](https://github.com/saheemOlogN/Leetrack/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saheemOlogN/Leetrack/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/saheemOlogN/Leetrack/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/saheemOlogN/Leetrack/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saheemOlogN/Leetrack/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saheemOlogN/Leetrack/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/saheemOlogN/Leetrack/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saheemOlogN/Leetrack/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/saheemOlogN/Leetrack/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saheemOlogN/Leetrack/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/saheemOlogN/Leetrack/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
