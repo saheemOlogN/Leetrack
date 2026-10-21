@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int minOperations(string s) {
+        int n=s.size();
+        if(is_sorted(begin(s),end(s))) return 0;
+        if(n==2) return -1;
+        char mx=*max_element(begin(s),end(s));
+        char mn=*min_element(begin(s),end(s));
+        if(s[0]==mn || s[n-1]==mx) return 1;
+
+        char mxm=*max_element(begin(s)+1,end(s)-1);
+        char mnm=*min_element(begin(s)+1,end(s)-1);
+
+        if(s[0]>mxm && s[n-1]<mnm) return 3;
+
+        return 2;
+    }
+};
