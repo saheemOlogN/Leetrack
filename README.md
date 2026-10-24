@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/saheemOlogN/Leetrack/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/saheemOlogN/Leetrack/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/saheemOlogN/Leetrack/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/saheemOlogN/Leetrack/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/saheemOlogN/Leetrack/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/saheemOlogN/Leetrack/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/saheemOlogN/Leetrack/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/saheemOlogN/Leetrack/tree/master/0205-isomorphic-strings) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/saheemOlogN/Leetrack/tree/master/0386-lexicographical-numbers) |
 | [3310-remove-methods-from-project](https://github.com/saheemOlogN/Leetrack/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/saheemOlogN/Leetrack/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saheemOlogN/Leetrack/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/saheemOlogN/Leetrack/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/saheemOlogN/Leetrack/tree/master/0131-palindrome-partitioning) |
 | [1096-brace-expansion-ii](https://github.com/saheemOlogN/Leetrack/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/saheemOlogN/Leetrack/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saheemOlogN/Leetrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saheemOlogN/Leetrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
