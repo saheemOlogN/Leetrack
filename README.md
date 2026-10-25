@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/saheemOlogN/Leetrack/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saheemOlogN/Leetrack/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/saheemOlogN/Leetrack/tree/master/1052-grumpy-bookstore-owner) |
+| [1254-number-of-closed-islands](https://github.com/saheemOlogN/Leetrack/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/saheemOlogN/Leetrack/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
@@ -447,11 +448,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/saheemOlogN/Leetrack/tree/master/0386-lexicographical-numbers) |
+| [1254-number-of-closed-islands](https://github.com/saheemOlogN/Leetrack/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/saheemOlogN/Leetrack/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/saheemOlogN/Leetrack/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/saheemOlogN/Leetrack/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/saheemOlogN/Leetrack/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saheemOlogN/Leetrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/saheemOlogN/Leetrack/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/saheemOlogN/Leetrack/tree/master/0980-unique-paths-iii) |
+| [1254-number-of-closed-islands](https://github.com/saheemOlogN/Leetrack/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saheemOlogN/Leetrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saheemOlogN/Leetrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dancing Links
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/saheemOlogN/Leetrack/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saheemOlogN/Leetrack/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
