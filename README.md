@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
 | [0976-largest-perimeter-triangle](https://github.com/saheemOlogN/Leetrack/tree/master/0976-largest-perimeter-triangle) |
+| [0980-unique-paths-iii](https://github.com/saheemOlogN/Leetrack/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saheemOlogN/Leetrack/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/saheemOlogN/Leetrack/tree/master/1052-grumpy-bookstore-owner) |
 | [1288-remove-covered-intervals](https://github.com/saheemOlogN/Leetrack/tree/master/1288-remove-covered-intervals) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/saheemOlogN/Leetrack/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saheemOlogN/Leetrack/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/saheemOlogN/Leetrack/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/saheemOlogN/Leetrack/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saheemOlogN/Leetrack/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/saheemOlogN/Leetrack/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/saheemOlogN/Leetrack/tree/master/0131-palindrome-partitioning) |
+| [0980-unique-paths-iii](https://github.com/saheemOlogN/Leetrack/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/saheemOlogN/Leetrack/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/saheemOlogN/Leetrack/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/saheemOlogN/Leetrack/tree/master/0835-image-overlap) |
+| [0980-unique-paths-iii](https://github.com/saheemOlogN/Leetrack/tree/master/0980-unique-paths-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saheemOlogN/Leetrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saheemOlogN/Leetrack/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dancing Links
@@ -609,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saheemOlogN/Leetrack/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/saheemOlogN/Leetrack/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
