@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saheemOlogN/Leetrack/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/saheemOlogN/Leetrack/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/saheemOlogN/Leetrack/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saheemOlogN/Leetrack/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saheemOlogN/Leetrack/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saheemOlogN/Leetrack/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/saheemOlogN/Leetrack/tree/master/0079-word-search) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saheemOlogN/Leetrack/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/saheemOlogN/Leetrack/tree/master/0070-climbing-stairs) |
@@ -635,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/saheemOlogN/Leetrack/tree/master/0980-unique-paths-iii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saheemOlogN/Leetrack/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
