@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saheemOlogN/Leetrack/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/saheemOlogN/Leetrack/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/saheemOlogN/Leetrack/tree/master/0300-longest-increasing-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/saheemOlogN/Leetrack/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/saheemOlogN/Leetrack/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0523-continuous-subarray-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saheemOlogN/Leetrack/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0241-different-ways-to-add-parentheses) |
 | [0319-bulb-switcher](https://github.com/saheemOlogN/Leetrack/tree/master/0319-bulb-switcher) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/saheemOlogN/Leetrack/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/saheemOlogN/Leetrack/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saheemOlogN/Leetrack/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0523-continuous-subarray-sum) |
