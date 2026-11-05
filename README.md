@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/saheemOlogN/Leetrack/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/saheemOlogN/Leetrack/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saheemOlogN/Leetrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/saheemOlogN/Leetrack/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/saheemOlogN/Leetrack/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saheemOlogN/Leetrack/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/saheemOlogN/Leetrack/tree/master/0763-partition-labels) |
 | [0838-push-dominoes](https://github.com/saheemOlogN/Leetrack/tree/master/0838-push-dominoes) |
 | [0962-maximum-width-ramp](https://github.com/saheemOlogN/Leetrack/tree/master/0962-maximum-width-ramp) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saheemOlogN/Leetrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/saheemOlogN/Leetrack/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saheemOlogN/Leetrack/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saheemOlogN/Leetrack/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/saheemOlogN/Leetrack/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/saheemOlogN/Leetrack/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/saheemOlogN/Leetrack/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saheemOlogN/Leetrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saheemOlogN/Leetrack/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/saheemOlogN/Leetrack/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saheemOlogN/Leetrack/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saheemOlogN/Leetrack/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/saheemOlogN/Leetrack/tree/master/0300-longest-increasing-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/saheemOlogN/Leetrack/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saheemOlogN/Leetrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saheemOlogN/Leetrack/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saheemOlogN/Leetrack/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saheemOlogN/Leetrack/tree/master/1855-maximum-distance-between-a-pair-of-values) |
