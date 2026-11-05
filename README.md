@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/saheemOlogN/Leetrack/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/saheemOlogN/Leetrack/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/saheemOlogN/Leetrack/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saheemOlogN/Leetrack/tree/master/0189-rotate-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saheemOlogN/Leetrack/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/saheemOlogN/Leetrack/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saheemOlogN/Leetrack/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/saheemOlogN/Leetrack/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saheemOlogN/Leetrack/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/saheemOlogN/Leetrack/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/saheemOlogN/Leetrack/tree/master/0131-palindrome-partitioning) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/saheemOlogN/Leetrack/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/saheemOlogN/Leetrack/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/saheemOlogN/Leetrack/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saheemOlogN/Leetrack/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
