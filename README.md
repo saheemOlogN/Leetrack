@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saheemOlogN/Leetrack/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/saheemOlogN/Leetrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/saheemOlogN/Leetrack/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saheemOlogN/Leetrack/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/saheemOlogN/Leetrack/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/saheemOlogN/Leetrack/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saheemOlogN/Leetrack/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saheemOlogN/Leetrack/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/saheemOlogN/Leetrack/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saheemOlogN/Leetrack/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saheemOlogN/Leetrack/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saheemOlogN/Leetrack/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saheemOlogN/Leetrack/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saheemOlogN/Leetrack/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saheemOlogN/Leetrack/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/saheemOlogN/Leetrack/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/saheemOlogN/Leetrack/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/saheemOlogN/Leetrack/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saheemOlogN/Leetrack/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saheemOlogN/Leetrack/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
